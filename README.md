@@ -1,2 +1,2 @@
-# euice
-newcomer
+$\alpha$
+$ \alpha $
